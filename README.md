@@ -42,8 +42,8 @@ Can you visit my itch.io profile to discover some of them:
 
 ## 💬 Ask Me About or take Contact 
 
-- **Work Email**    : [tua.email@example.com](mailto:c.trigilia@sisoftsrl.it)
-- **Personal Email**: [tua.email@example.com](mailto:corradotrigilia97@gmail.com)
+- **Work Email**    : [c.trigilia@sisoftsrl.it](mailto:c.trigilia@sisoftsrl.it)
+- **Personal Email**: [corradotrigilia97@gmail.com](mailto:corradotrigilia97@gmail.com)
 - **LinkedIn**      : [LinkedIn](https://www.linkedin.com/in/corrado-trigilia-194b7a180/)
 
 Thank you for visiting my profile!
