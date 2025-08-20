@@ -14,10 +14,16 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Corrado Trigilia!
 
 I am a lead programmer at Sisoft s.r.l., a software house specialized in IT solutions for vending.
+Alongside my main role, i also work as a freelancer for BlasterFoundry.
 I have a great passion for programming, video games, and optimization. My ultimate goal, my dream,
 is to work as a video game developer.
 
 ## 💼 Professional Experience
+
+### Blaster Foundry
+**Gamedev Freelancer**
+- Unity 6 with URP
+- link of my first game: https://ridewithedd.blasterfoundry.software
 
 ### Sisoft s.r.l.
 **Leader Programmer**
