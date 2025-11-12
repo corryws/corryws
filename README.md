@@ -23,7 +23,6 @@ is to work as a video game developer.
 ### Blaster Foundry
 **Gamedev Freelancer**
 - Unity 6 with URP
-- GameMaker
 - link of my first game: https://ridewithedd.blasterfoundry.software
 
 ### Sisoft s.r.l.
@@ -44,7 +43,7 @@ Can you visit my itch.io profile to discover some of them:
 ## ✨ Skill
 
 - **Programming Languages**: C,C++,C#, Java, Python, JavaScript, Dart, Basic, PHP, SQL
-- **Technologies**         : Unity
+- **Technologies**         : Unity, GameMaker
 - **Tools**                : Git, Docker, Visual Studio, VS Code
 
 ## 💬 Ask Me About or take Contact 
