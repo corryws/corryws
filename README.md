@@ -23,6 +23,7 @@ is to work as a video game developer.
 ### Blaster Foundry
 **Gamedev Freelancer**
 - Unity 6 with URP
+- GameMaker
 - link of my first game: https://ridewithedd.blasterfoundry.software
 
 ### Sisoft s.r.l.
